@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ayeshazaf 👋
 
-<!--
-**Ayeshazaf/Ayeshazaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student | Web Developer | Aspiring Data Scientist & AI Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate learner with a focus on web development and a growing interest in artificial intelligence, machine learning, and data science. I love exploring new technologies, building innovative projects, and expanding my knowledge every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Interests
+
+- **Web Development:** HTML, CSS, JavaScript, React
+- **Data Science & AI:** Python, Streamlit, ML basics
+- **Other Interests:** Exploring AI applications, building data dashboards, automating workflows
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Machine Learning techniques
+- Data Visualization with Python & Streamlit
+- New languages (both programming & spoken!)
+
+
+---
+
+## 📫 Connect with Me
+
+
+---
+
+Thanks for visiting my profile! Let’s connect and learn together.
