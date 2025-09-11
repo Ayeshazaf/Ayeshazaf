@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I'm a passionate learner with a focus on web devel
 ---
 ## 🚀 Highlighted Projects
 
+- **Natural Language to SQL (CodeT5, Spider Dataset)** → [GitHub Repo](https://github.com/Ayeshazaf/Natural_language_to_SQL/tree/main)
 - **Spam Detector (BERT)** → [GitHub Repo](https://github.com/Ayeshazaf/sms_spam_detection))  
 - **Text Summarizer (Hugging Face Pipeline)** → [GitHub Repo](https://github.com/Ayeshazaf/Summary_dashboard) 
-- **Natural Language to SQL (CodeT5, Spider Dataset)** → [GitHub Repo](https://github.com/Ayeshazaf/Natural_language_to_SQL/tree/main)
 
 ---
 
