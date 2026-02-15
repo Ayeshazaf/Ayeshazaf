@@ -1,15 +1,15 @@
 # Hi, I'm Ayeshazaf 👋
 
-**Student | Web Developer | Aspiring Machine Learning & NLP Enthusiast**
+**Student | Web Developer | Aspiring CV & NLP Enthusiast**
 
-Welcome to my GitHub profile! I'm a passionate learner with a focus on web development and a growing interest in artificial intelligence, machine learning, and NLP. I love exploring new technologies, building innovative projects, and expanding my knowledge every day.
+Welcome to my GitHub profile! I'm a passionate learner with a focus on web development and a growing interest in artificial intelligence, machine learning,CV and NLP. I love exploring new technologies, building innovative projects, and expanding my knowledge every day.
 
 ---
 
 ## 🚀 Skills & Interests
 
 - **Web Development:** HTML, CSS, JavaScript, React, Node.js, Next.js, Typescript, Database
-- **Machine Learning & NLP:** Python, Pytorch, Transformers, Streamlit, Gradio 
+- **CV & NLP:** Python, Pytorch, Transformers, Streamlit, Gradio 
 - **Other Interests:** Exploring AI applications, building data dashboards, automating workflows
 
 ---
